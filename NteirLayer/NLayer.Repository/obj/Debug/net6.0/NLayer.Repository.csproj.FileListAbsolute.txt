@@ -1,0 +1,17 @@
+D:\ProjeMed\NteirLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+D:\ProjeMed\NteirLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+D:\ProjeMed\NteirLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
+D:\ProjeMed\NteirLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
+D:\ProjeMed\NteirLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
+D:\ProjeMed\NteirLayer\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.AssemblyReference.cache
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
+D:\ProjeMed\NteirLayer\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll

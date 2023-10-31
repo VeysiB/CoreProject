@@ -1,0 +1,17 @@
+D:\ProjeMed\NteirLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+D:\ProjeMed\NteirLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+D:\ProjeMed\NteirLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+D:\ProjeMed\NteirLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+D:\ProjeMed\NteirLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+D:\ProjeMed\NteirLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+D:\ProjeMed\NteirLayer\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+D:\ProjeMed\NteirLayer\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
