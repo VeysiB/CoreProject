@@ -70,3 +70,5 @@ D:\ProjeMed\NteirLayer\NLayer.API\obj\Debug\net6.0\refint\NLayer.API.dll
 D:\ProjeMed\NteirLayer\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
 D:\ProjeMed\NteirLayer\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
 D:\ProjeMed\NteirLayer\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
+D:\ProjeMed\NteirLayer\NLayer.API\bin\Debug\net6.0\Humanizer.dll
+D:\ProjeMed\NteirLayer\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

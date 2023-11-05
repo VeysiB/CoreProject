@@ -1,15 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "Q4neD1d5Zk3FxpVB41iQxcRrZ34ZKNBYwcJ4jPH/1OfjtWnGTSmuw0fvRZ1k+cOnwrnRE277TlPDEzV+k9rUiQ==",
+  "dgSpecHash": "pb/AGdmQ80Z4PSbI8FC7gn9ydr9HZ096MjRU6bLKX7xr92SsvUPVIAx/JBGC23dpGTlWWxUcGdiwzBMaLLjNbw==",
   "success": true,
   "projectFilePath": "D:\\ProjeMed\\NteirLayer\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Veysi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.24\\microsoft.entityframeworkcore.6.0.24.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.24\\microsoft.entityframeworkcore.abstractions.6.0.24.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.24\\microsoft.entityframeworkcore.analyzers.6.0.24.nupkg.sha512",
+    "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.24\\microsoft.entityframeworkcore.design.6.0.24.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.24\\microsoft.entityframeworkcore.relational.6.0.24.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.24\\microsoft.entityframeworkcore.sqlserver.6.0.24.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
