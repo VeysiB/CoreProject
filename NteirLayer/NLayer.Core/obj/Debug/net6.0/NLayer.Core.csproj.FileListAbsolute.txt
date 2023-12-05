@@ -22,3 +22,15 @@ C:\Users\mdskln2660\Documents\Architecture\CoreProject\NteirLayer\NLayer.Core\ob
 C:\Users\mdskln2660\Documents\Architecture\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
 C:\Users\mdskln2660\Documents\Architecture\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
 C:\Users\mdskln2660\Documents\Architecture\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+D:\ProjeMed\CoreProject\NteirLayer\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
