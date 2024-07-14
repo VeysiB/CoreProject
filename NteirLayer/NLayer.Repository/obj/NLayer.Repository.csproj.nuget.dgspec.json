@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Repository\\NLayer.Repository.csproj": {}
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Repository\\NLayer.Repository.csproj": {}
   },
   "projects": {
-    "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj",
         "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Core\\obj\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Repository\\NLayer.Repository.csproj": {
+    "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Repository\\NLayer.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Repository\\NLayer.Repository.csproj",
         "projectName": "NLayer.Repository",
-        "projectPath": "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Repository\\NLayer.Repository.csproj",
         "packagesPath": "C:\\Users\\Veysi\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj": {
-                "projectPath": "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj"
+              "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj": {
+                "projectPath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.Core\\NLayer.Core.csproj"
               }
             }
           }
