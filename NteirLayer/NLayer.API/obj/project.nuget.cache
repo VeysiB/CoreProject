@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vCUOTNXhD+C4n70FdcieujrrchQpnWnZXC1s0S5pG4qg+KvQ/Po3CegszgQ/9d6H9jUWXGdzW+vAJi9zwM1RRQ==",
+  "dgSpecHash": "4SPBXXKkJK5iKE99heEUC6NRahUZ4UWcPpoSkK9HtPMrhaVR9njPhdnKgj9Wl3bFc10y1MUPoMZvb+CnJe47Eg==",
   "success": true,
-  "projectFilePath": "D:\\ProjeMed\\CoreProject\\NteirLayer\\NLayer.API\\NLayer.API.csproj",
+  "projectFilePath": "C:\\Users\\Veysi\\OneDrive\\Masaüstü\\gitDeneme\\CoreProject\\NteirLayer\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Veysi\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Veysi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
