@@ -58,10 +58,10 @@ namespace NLayer.API.Controllers
             await _service.UpdateAsync(_mapper.Map<Product>(productDto));
             return CreateActionResult(CustomResponseDto<NoContentDto>.Success(204));
         }
-        [HttpDelete("{Id}")]
-        public async Task<IActionResult> Remove(int Id)
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Remove(int id)
         {
-            var product = await _service.GetByIdAsync(Id);
+            var product = await _service.GetByIdAsync(id);
             //if(product == null)
             //{
             //    return CreateActionResult(CustomResponseDto<NoContentDto>.Fail(404, "bu id'ye sahip ürün bulunamadı"));
